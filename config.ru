@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-require 'main.rb'
+require_relative 'main.rb'
 run Sinatra::Application 
